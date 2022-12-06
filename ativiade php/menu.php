@@ -8,13 +8,9 @@
   <title>Document</title>
 </head>
 <body>
-<div class="container">
-  <div class="row">
-    <div class="col-md-12 text-center">
-      <center><h3 class="animate-charcter"> aqui voce encontra seus hobbies favoritos sem precisar pesquisar</h3></center>
-    </div>
-  </div>
-</div>
+
+
+
     <link rel="stylesheet" href="nomesmenu.css">
 </body>
 </html>

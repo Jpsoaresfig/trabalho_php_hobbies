@@ -22,13 +22,13 @@
 body {
   min-height: 100vh;
   font-family: canada-type-gibson, sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 1.25rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
-  background-color: #eff8e2;
+  background-color: aqua;
 }
 
 .content {
@@ -41,14 +41,14 @@ body {
   text-shadow: 3px 3px 0 var(--color-secondary), 6px 6px 0 var(--color-tertiary),
     9px 9px var(--color-quaternary), 12px 12px 0 var(--color-quinary);
   font-family: bungee, sans-serif;
-  font-weight: 0;
+  font-weight: 400;
   text-transform: uppercase;
   font-size: calc(2rem + 5vw);
-  text-align: start;
+  text-align: center;
   margin: 0;
   color: var(--color-primary);
   color: transparent;
-  background-color: rgba(244, 244, 244, 0);
+  background-color: aqua;
   background-clip: text;
   animation: shadows 1.2s ease-in infinite, move 1.2s ease-in infinite;
   letter-spacing: 0.4rem;
@@ -117,11 +117,3 @@ body {
     transform: translate(0px, 0px);
   }
 }
-
- img{
-    text-align: unset;
- }
-
- body{
-    background-color: aqua;
- }

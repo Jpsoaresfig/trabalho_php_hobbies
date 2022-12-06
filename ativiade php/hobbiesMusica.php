@@ -1,4 +1,18 @@
-<center><h1>Hobbbies relacionados a músicas</h1></center>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <center><h3 class="animate-charcter"> hobbies relacionados a música</h3></center>
+    </div>
+  </div>
+</div>
+<br>
+<center> <a href="?pg=hobbiesEsportes"><span> Esportes ></span></a>
+    <a href="?pg=hobbiesMusica"> <span> Música ></span></a>
+    <a href="?pg=hobbiesArte"><span>Arte ></span></a>
+    <a href="?pg=hobbiesPassatempo"><span>Passatempo ></span></a>
+    </center>
+<br>
+   
 <center><img src="https://www.carvalholutheria.com.br/wp-content/uploads/2019/12/ts1.jpg" width="310">
 <img src="https://michael.com.br/site/images/instrumento/galeria/normal/ins_630_1032.jpg" width="310" >
 <img src="http://dicasparaaprendermusica.com/wp-content/uploads/2020/12/Como-Aprender-a-Tocar-Violino-do-zero-7-Dicas-1536x1024.jpg"width="310"  >
@@ -20,5 +34,6 @@ Fazer um curso de DJ ou produção musical é uma possibilidade de passatempo su
 <p>5. ritmo
  saber o ritmo se torna algo otimo para a criacao e tem pessoas que gostam para criar novas musicas
 </p>
-<center><a href="?pg=principal" ><span>voltar ></span></a></center>
+<center><a href="?pg=paginaprincipal" ><span>voltar ></span></a></center>
+<br>
 <center><a href="?pg=faleconosco"><span>fale conosco ></span></a></center>

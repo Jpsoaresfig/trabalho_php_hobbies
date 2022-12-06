@@ -12,6 +12,7 @@ fwrite($file, "Email: $email\n");
 fwrite($file, "Duvida do cliente: $duvid\n");
 fclose($file);      
 echo "<center><h1>obrigado pela preferencia</h1></center>";
+echo "<center><a href='?pg=paginaprincipal'>pagina principal</a></center>"; 
 
 
 

@@ -1,4 +1,20 @@
-<center><h1>hobbies relacionados a artes</h1></center>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <center><h3 class="animate-charcter"> hobbies relacionados a arte </h3></center>
+    </div>
+  </div>
+</div>
+<br>
+<center> <a href="?pg=hobbiesEsportes"><span> Esportes ></span></a>
+    <a href="?pg=hobbiesMusica"> <span> Música ></span></a>
+    <a href="?pg=hobbiesArte"><span>Arte ></span></a>
+    <a href="?pg=hobbiesPassatempo"><span>Passatempo ></span></a>
+    </center>
+<br>
+   
 <center><img src="https://static.vecteezy.com/ti/fotos-gratis/p1/1739503-close-up-de-pessoa-tocando-um-violao-gr%C3%A1tis-foto.jpg" width="310">
 <img src="https://wolfmaya.com.br/wp-content/uploads/2020/09/IMAGEM-DESTACADA.jpg" width="310">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Two_dancers.jpg/375px-Two_dancers.jpg" width="300" height="250"></center>
@@ -19,5 +35,6 @@ A fotografia permite registrar situações, pessoas e objetos, captando sua ess�
 <p>5. Escrita
 Escrever é um passatempo que permite um maior desenvolvimento de funções criativas. Desde a manutenção de diários até anotações de sonhos, tudo vale.</p>
 <br>
-<center><a href="?pg=principal" ><span>voltar ></span></a></center>
+<center><a href="?pg=paginaprincipal" ><span>voltar ></span></a></center>
+<br>
 <center><a href="?pg=faleconosco"><span>fale conosco ></span></a></center>

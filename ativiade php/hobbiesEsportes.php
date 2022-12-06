@@ -1,4 +1,18 @@
-<center><h1>Hobbies relacionados a esporte</h1></center>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <center><h3 class="animate-charcter"> hobbies relacionados a esporte</h3></center>
+    </div>
+  </div>
+</div>
+<br>
+<center> <a href="?pg=hobbiesEsportes"><span> Esportes ></span></a>
+    <a href="?pg=hobbiesMusica"> <span> Música ></span></a>
+    <a href="?pg=hobbiesArte"><span>Arte ></span></a>
+    <a href="?pg=hobbiesPassatempo"><span>Passatempo ></span></a>
+    </center>
+<br>
+   
 
 <center><img src="https://www.dicasdemulher.com.br/wp-content/uploads/2015/10/yoga-0-788x480.jpg"width="310" >
 <img src="https://www.intrinseca.com.br/blog/wp-content/uploads/2019/11/01.jpg" width="310">
@@ -23,5 +37,7 @@ O yoga é uma atividade que busca trabalhar de forma conjunta o corpo e a ment
 <p>5. Dança
 A dança é outra maneira de exteriorizar os sentimentos e as aulas permitem ainda trabalhar o fortalecimento muscular, estimular o cérebro e, claro, se divertir!</p>
 <br>
-<center><a href="?pg=principal" ><span>voltar ></span></a></center>
+<center><a href="?pg=paginaprincipal " ><span>voltar ></span></a></center>
+<br>
+
 <center><a href="?pg=faleconosco"><span>fale conosco ></span></a></center>

@@ -25,13 +25,17 @@
 
   <input type="text" id="duvid" name="duvid" >
   <br>
-  <button class="button-57" role="button"><span class="text">concluir</span><span>enviar</span></button>
+  <br>
+  <button class="button-57" role="button"><span class="text">concluir</span><span>enviar</span></button >
+  <br>
+  <br>
+  <br>
+  <br>
 
 
 
 <link rel="stylesheet" href="cssfaleconosco.css">
-
-
+ 
  </form>
- <center><a href="?pg=principal" ><span>voltar ></span></a></center>
-</center>
+                <center><a href="?pg=paginaprincipal" ><span>voltar ></span></a></center>
+ 

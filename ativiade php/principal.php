@@ -9,7 +9,8 @@
     <body>
         
     
-<center><a href="?pg=principal" ><span>voltar ></span></a></center>
+<center><a href="?pg=paginaprincipal" ><span>voltar ></span></a></center>
+<br> 
 <center><a href="?pg=faleconosco"><span>fale conosco ></span></a></center>
 <link rel="stylesheet" href="nomescima.css">
     </body>
